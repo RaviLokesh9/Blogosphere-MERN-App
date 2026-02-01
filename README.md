@@ -22,7 +22,6 @@ Welcome to **Blogosphere** - your go-to destination for a feature-rich and immer
 - **React.js:** For creating a dynamic and interactive user interface.
 - **Node.js:** For running the server-side logic and handling backend requests.
 - **JWT, Bcryptjs, Cookies:** Ensuring secure user authentication and authorization.
-- **Nodemailer:** Facilitating seamless communication through the Contact Us page.
 
 Blogosphere combines these technologies to create a powerful and enjoyable blogging platform. Dive into the world of Blogosphere and let your blogging journey begin! 🌐✨
 
