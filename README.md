@@ -3,12 +3,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Key Features](#-key-features)
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
 - [Installation Guide](#installation-guide)
-- [Contribution](#contribution)
-- [Contact Us](#contact-us)
 
 ## Introduction
 
